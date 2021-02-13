@@ -1,2 +1,3 @@
 # 6-pack-cape
-6 Pack capes used for the hscpress
+
+This contains the revisions of the 6 pack design that is used as a breakout for the HSCpress sensors. 
